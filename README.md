@@ -1,6 +1,11 @@
 # medium-to-markdown
 Convert medium link to markdown
 
+## Screenshots
+
+![screenshot1](./demo/screenshot1.png)
+![screenshot2](./demo/screenshot2.png)
+
 ## How to use the hosted version
 
 1. Visit the website
